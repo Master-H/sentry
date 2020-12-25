@@ -8,13 +8,13 @@
 ###############
 
 # mail.backend: 'smtp'  # Use dummy if you want to disable email entirely
-mail.host: 'smtp'
-# mail.port: 25
-# mail.username: ''
-# mail.password: ''
-# mail.use-tls: false
-# The email address to send on behalf of
-# mail.from: 'root@localhost'
+mail.host: 'smtp.163.com'
+mail.port: 25
+mail.username: 'uestchxy@163.com'
+mail.password: 'as2036252'
+mail.use-tls: false
+The email address to send on behalf of
+mail.from: 'root@localhost'
 
 # If you'd like to configure email replies, enable this.
 # mail.enable-replies: true
